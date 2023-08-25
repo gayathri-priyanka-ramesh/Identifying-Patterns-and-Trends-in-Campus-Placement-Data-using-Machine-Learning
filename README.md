@@ -17,7 +17,7 @@ The attributes provided in the dataset can serve as input features for the predi
 10.	Post Graduation Specialization -> Mkt&HR, Mkt&Fin
 
 Result:
-•	Placement Status -> Placed, Not Placed
-•	Estimated Salary
+1.	Placement Status -> Placed, Not Placed
+2.	Estimated Salary
 
 Project Demo Video: https://www.youtube.com/watch?v=W1tEfRlqtA0
