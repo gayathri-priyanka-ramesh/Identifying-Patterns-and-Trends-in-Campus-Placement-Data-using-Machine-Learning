@@ -24,7 +24,7 @@ The attributes provided in the dataset can serve as input features for the predi
 ### Python libraries
 Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 ### Algorithm
-Implemented machine learning algorithms in Python to analyze campus placement data.
+Implemented machine learning algorithms in Python
 
 ## Standout Characteristics
 Implemented Git for version control, ensuring a systematic approach to project development.
