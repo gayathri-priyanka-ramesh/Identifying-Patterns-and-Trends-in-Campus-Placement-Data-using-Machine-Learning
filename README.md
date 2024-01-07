@@ -27,6 +27,6 @@ Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 Implemented machine learning algorithms in Python
 
 ## Standout Characteristics
-Implemented Git for version control, ensuring a systematic approach to project development.
-Adopted Agile project management principles for efficient workflow and collaboration.
+Implemented Git for version control, ensuring a systematic approach to project development.  
+Adopted Agile project management principles for efficient workflow and collaboration.  
 Completed the project within the stipulated time-frame, achieving a 10% reduction in development time compared to the initial estimate.
